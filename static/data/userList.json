@@ -1,0 +1,54 @@
+{
+  "data": {
+    "userList": [
+      {
+        "id": 1,
+        "name": "김건모",
+        "account": "gunmo123",
+        "password": "rjsah!!",
+        "phone": "010-1234-2345",
+        "division": "가입자",
+        "company": "한국 소방안전",
+        "buildingCode": "12-344-523",
+        "createdAt": "2020-02-13",
+        "updatedAt": "2020-02-13",
+        "humanDate": "",
+        "connectType": "안드로이드",
+        "smsAgree": true,
+        "accountStatus": true
+      },
+      {
+        "id": 2,
+        "name": "임창정",
+        "account": "korealee1",
+        "password": "dkssud!!",
+        "phone": "010-1234-2345",
+        "division": "입주자",
+        "company": "한국 소방안전",
+        "buildingCode": "12-344-523",
+        "createdAt": "2020-03-02",
+        "updatedAt": "2020-02-13",
+        "humanDate": "",
+        "connectType": "애플",
+        "smsAgree": true,
+        "accountStatus": true
+      },
+      {
+        "id": 3,
+        "name": "이진성",
+        "account": "koreapark",
+        "password": "qksrkdnj!!",
+        "phone": "010-1234-2345",
+        "division": "소방업체",
+        "company": "한국 소방안전",
+        "buildingCode": "12-344-523",
+        "createdAt": "2020-11-13",
+        "updatedAt": "2020-02-13",
+        "humanDate": "",
+        "connectType": "안드로이드",
+        "smsAgree": true,
+        "accountStatus": true
+      }
+    ]
+  }
+}

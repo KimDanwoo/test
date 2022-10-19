@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "대시보드",
+      "link": "/",
+      "icon": "si si-layers"
+    },
+    {
+      "id": 1,
+      "name": "관리자관리",
+      "link": "/admin",
+      "icon": "si si-badge"
+    },
+    {
+      "id": 2,
+      "name": "회원관리",
+      "link": "/user",
+      "icon": "si si-people"
+    },
+    {
+      "id": 3,
+      "name": "건물코드관리",
+      "link": "/buildingcode",
+      "icon": "si si-home"
+    },
+    {
+      "id": 4,
+      "name": "업체코드관리",
+      "link": "/companycode",
+      "icon": "si si-calendar"
+    },
+    {
+      "id": 5,
+      "name": "콘텐츠관리",
+      "link": "/content",
+      "icon": "si si-earphones-alt",
+      "child": [
+        {
+          "id": 1,
+          "name": "소방점검",
+          "link": "/"
+        },
+        {
+          "id": 2,
+          "name": "응급조치",
+          "link": "/"
+        },
+        {
+          "id": 3,
+          "name": "소방시설",
+          "link": "/"
+        },
+        {
+          "id": 4,
+          "name": "소방용어",
+          "link": "/"
+        },
+        {
+          "id": 5,
+          "name": "서식자료",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "결제관리",
+      "link": "/payment",
+      "icon": "si si-credit-card"
+    },
+    {
+      "id": 7,
+      "name": "고객센터",
+      "link": "/service",
+
+      "icon": "si si-earphones-alt",
+      "child": [
+        {
+          "id": 1,
+          "name": "고객문의 대시보드",
+          "link": "/"
+        },
+        {
+          "id": 2,
+          "name": "고객문의 이력",
+          "link": "/"
+        }
+      ]
+    }
+  ]
+}

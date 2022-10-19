@@ -1,0 +1,45 @@
+{
+  "data": {
+    "buildingCodeList": [
+      {
+        "id": 1,
+        "code": "2003453",
+        "buildingType": 1,
+        "address": "경기도 수원시 영통구 122-2",
+        "name": "수원 2차",
+        "account": "qwee",
+        "createdAt": "2020-02-13",
+        "updatedAt": "2020-02-13",
+        "paymentedAt": "2020-01-01",
+        "companyName": "한국소방안전",
+        "buisnessNumber": "234-233-12"
+      },
+      {
+        "id": 2,
+        "code": "2003453",
+        "buildingType": 2,
+        "address": "경기도 광명시 중앙로 122-2",
+        "name": "광명 2차",
+        "account": "eslint",
+        "createdAt": "2020-03-02",
+        "updatedAt": "2020-02-13",
+        "paymentedAt": "2020-01-01",
+        "companyName": "한국소방안전",
+        "buisnessNumber": "234-233-12"
+      },
+      {
+        "id": 3,
+        "code": "2003453",
+        "buildingType": 3,
+        "address": "서울특별시 노원구 122-2",
+        "name": "노원 3차",
+        "account": "liveServer",
+        "createdAt": "2020-11-13",
+        "updatedAt": "2020-02-13",
+        "paymentedAt": "2020-01-01",
+        "companyName": "한국소방안전",
+        "buisnessNumber": "234-233-12"
+      }
+    ]
+  }
+}

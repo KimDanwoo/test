@@ -1,0 +1,118 @@
+h5.card-title {
+  margin-bottom: 10px;
+}
+
+/* search table style */
+.custom-controls-stacked {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+
+.custom-controls-stacked.flex_start {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+}
+
+.search-select {
+  width: 140px;
+  height: 38px;
+  border-radius: 5px;
+  border: 1px solid #eee;
+  padding: 0 12px;
+}
+
+.search-label-wrap label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 6px;
+}
+
+.form-group {
+  margin: 8px 0 0 0;
+}
+
+.custom-control.custom-radio {
+  padding: 0px 20px;
+}
+
+.table thead th,
+.table tbody th {
+  vertical-align: middle !important;
+  text-align: center;
+}
+
+.table thead th {
+  padding-top: 16px;
+}
+
+.padding-select-td {
+  padding: 4px 12px !important;
+}
+
+/* list table style */
+.card.custom-card.mt-80 {
+  margin-top: 80px;
+}
+
+.row.btn-box {
+  padding: 8px 0;
+}
+
+.row.btn-box .col:nth-child(2) {
+  text-align: right;
+}
+
+.table tbody.point tr {
+  cursor: pointer;
+}
+
+table p {
+  padding: 5px;
+  margin: 0;
+}
+
+/* detail table style */
+.w-80p {
+  width: 500px;
+}
+
+.w-180 {
+  width: 180px;
+}
+
+.w-120 {
+  width: 120px;
+}
+
+.row {
+  align-items: center;
+}
+
+.btn.btn-primary.detail-button {
+  width: 60px;
+  margin-left: 12px;
+}
+
+/* detail table else */
+.col-10 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.col-10 button {
+  margin: 0 12px;
+}
+
+p.error {
+  font-size: 8px;
+  margin: 0;
+  text-align: left;
+  color: red;
+  padding: 4px 0 0 4px;
+}

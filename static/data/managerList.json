@@ -1,0 +1,42 @@
+{
+  "data": {
+    "managerList": [
+      {
+        "id": 1,
+        "name": "홍길동",
+        "account": "korekim1",
+        "password": "thqkd!!",
+        "phone": "010-1234-2345",
+        "company": "한국 소방안전",
+        "permition": "회원관리, 소방업체,   문의대응",
+        "createdAt": "2020-02-13",
+        "updatedAt": "2020-02-13",
+        "accountStatus": true
+      },
+      {
+        "id": 2,
+        "name": "임꺽정",
+        "account": "korealee1",
+        "password": "dkssud!!",
+        "phone": "010-1234-2345",
+        "company": "한국 소방안전",
+        "permition": "회원관리,  건물관리, 콘텐츠관리",
+        "createdAt": "2020-03-02",
+        "updatedAt": "2020-02-13",
+        "accountStatus": true
+      },
+      {
+        "id": 3,
+        "name": "이순신",
+        "account": "koreapark",
+        "password": "qksrkdnj!!",
+        "phone": "010-1234-2345",
+        "company": "한국 소방안전",
+        "permition": " 소방업체, 건물관리, 문의대응",
+        "createdAt": "2020-11-13",
+        "updatedAt": "2020-02-13",
+        "accountStatus": true
+      }
+    ]
+  }
+}

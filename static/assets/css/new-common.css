@@ -1,0 +1,25 @@
+/* header */
+.main-header .main-notification-list,
+.main-header .main-message-list {
+  height: 100%;
+  max-height: 350px;
+  min-height: 62px;
+  overflow-y: scroll;
+}
+
+/* login */
+p.warning {
+  font-size: 12px;
+  padding: 12px 0;
+}
+
+.pt-25 {
+  font-size: 25px;
+}
+
+p.error.login {
+  padding: 0;
+  margin: 0 0 24px 0;
+  text-align: left;
+  color: red;
+}
