@@ -126,7 +126,9 @@ export default {
     // Workaround to avoid enforcing hard-coded localhost:3000: https://github.com/nuxt-community/axios-module/issues/308
     baseURL: '/',
   },
-
+  server: {
+    port: process.env.NODE_ENV === 'production' ? null : 5000,
+  },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     // parallel: true,
